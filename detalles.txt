@@ -1,0 +1,11 @@
+* PARA ABRIR LA APP TU ORDENADOR NECESITA CAMARA *
+
+Para instalar las dependencias es necesario ejecutar
+```
+pip install -r requirements.txt
+```
+Para ejecutar el juego, ejecutar
+```
+python .\app.py
+```
+Si no te funciona, prueba usando "python3" o "py" en lugar de "python" en el comando anterior.
